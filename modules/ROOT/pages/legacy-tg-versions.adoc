@@ -5,7 +5,7 @@ This page lists all LTS (Long-Term Support) and previous versions of GraphQL.
 
 == LTS Versions
 
-* xref:graphql:ROOT:index.adoc[3.9]
+* xref:3.9@graphql:ROOT:index.adoc[3.9]
 
 == Other Versions
 
