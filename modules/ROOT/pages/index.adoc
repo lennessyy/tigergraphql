@@ -46,7 +46,7 @@ image:TG_Icon_Library-218.png[alt=getstarted,width=74,height=74]
 *Mutation*
 
 Learn how GraphQL uses xref:mutation.adoc[Mutation] to insert and delete vertices and edges.
-¦
+
 |===
 
 
